@@ -1,0 +1,26 @@
+# Site settings
+name: DubDub
+email: 303247612@qq.com
+author: 郑诚
+url: http://zhengchengyy.github.io
+resume_site: https://zhengchengyy.github.io/blog
+github: https://github.com/zhengchengyy
+baseurl: /blog
+description: #
+meta_description: #
+motto: Boats against the current,borne forward!
+banner: #
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: zhengchengyy
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
